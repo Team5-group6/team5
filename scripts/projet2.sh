@@ -6,5 +6,5 @@ read directoryname
 pwd
 mkdir $directoryname
 cd $directoryname
-touch team2
-echo "We are Etech Engineers" >> team2
+touch group6
+echo "We are Etech Engineers" >> group6
